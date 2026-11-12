@@ -1,0 +1,8 @@
+{
+  "name": "EmoStar Journal",
+  "description": "An insightful emotion analysis journaling app rewritten in React, preserving emotion breakdown and historical journal entries.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
